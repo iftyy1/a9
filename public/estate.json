@@ -1,0 +1,51 @@
+[
+    {
+      "id": "001",
+      "estate_title": "Modern Family House",
+      "segment_name": "Residential",
+      "description": "A beautiful modern family house located in the heart of the city with 3 bedrooms, 2 bathrooms, and a spacious garden.",
+      "price": "350,000 USD",
+      "status": "sale",
+      "area": "2000 sqft",
+      "location": "Downtown, City Center",
+      "facilities": ["Living Room", "Swimming Pool", "Kitchen", "Garage"],
+      "image_url": "https://example.com/images/modern-family-house.jpg"
+    },
+    {
+      "id": "002",
+      "estate_title": "Luxury Apartment",
+      "segment_name": "Residential",
+      "description": "A luxury apartment with stunning views of the skyline, featuring 2 bedrooms, 2 bathrooms, and a private balcony.",
+      "price": "2,500 USD/month",
+      "status": "rent",
+      "area": "1500 sqft",
+      "location": "Uptown, High Rise District",
+      "facilities": ["Living Room", "Gym", "Kitchen", "Balcony"],
+      "image_url": "https://example.com/images/luxury-apartment.jpg"
+    },
+    {
+      "id": "003",
+      "estate_title": "Commercial Office Space",
+      "segment_name": "Commercial",
+      "description": "A spacious office space suitable for startups and small businesses, located in a prime business district.",
+      "price": "120,000 USD",
+      "status": "sale",
+      "area": "5000 sqft",
+      "location": "Business Park, Commercial Zone",
+      "facilities": ["Conference Room", "High-Speed Internet", "Parking Lot"],
+      "image_url": "https://example.com/images/office-space.jpg"
+    },
+    {
+      "id": "004",
+      "estate_title": "Beachfront Villa",
+      "segment_name": "Residential",
+      "description": "A luxurious beachfront villa with 5 bedrooms, a private pool, and direct access to the beach, perfect for holiday rentals.",
+      "price": "10,000 USD/week",
+      "status": "rent",
+      "area": "3500 sqft",
+      "location": "Seaside, Beachfront Avenue",
+      "facilities": ["Living Room", "Swimming Pool", "Kitchen", "Garden"],
+      "image_url": "https://example.com/images/beachfront-villa.jpg"
+    }
+  ]
+  
